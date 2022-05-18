@@ -1,6 +1,5 @@
 package java_3.lessons.Lesson_1_Gusev;
 
-import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
