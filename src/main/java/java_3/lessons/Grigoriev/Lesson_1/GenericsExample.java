@@ -1,7 +1,6 @@
-package java_3.lessons.Lesson_1;
+package java_3.lessons.Grigoriev.Lesson_1;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class GenericsExample {

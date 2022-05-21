@@ -1,4 +1,4 @@
-package java_3.lessons.Lesson_1;
+package java_3.lessons.Grigoriev.Lesson_1;
 
 //T(ype) E(lement) K(ey) V(alue) N(umber)
 //public class GenericBox<X, Y, Z>

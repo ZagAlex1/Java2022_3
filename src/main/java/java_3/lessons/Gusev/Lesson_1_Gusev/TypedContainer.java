@@ -1,4 +1,4 @@
-package java_3.lessons.Lesson_1_Gusev;
+package java_3.lessons.Gusev.Lesson_1_Gusev;
 
 public class TypedContainer<T> {
     private T obj;

@@ -1,7 +1,4 @@
-package java_3.lessons.Lesson_1;
-
-import java.io.Serializable;
-import java.util.concurrent.Callable;
+package java_3.lessons.Grigoriev.Lesson_1;
 
 //public class BoxWithNumbers<N extends Number & Callable & Serializable> {
 public class BoxWithNumbers<N extends Number> {
